@@ -2,15 +2,15 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_icons=true" width="400" height="200" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_icons=true"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical" width="400" height="200" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical"  />
 
-</div>
+</div> <br>
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e desenvolvimento e busco aprender cada vez mais na área. 💻✨
 
 
-<div style="margin-top: "30px";">
+<div> <br>
 📚 Sobre Mim
 
 Sou estudante de ADS na FIAP e trabalho na área de suporte técnico, lidando com plataformas de investimentos e sistemas de atendimento ao cliente. 
