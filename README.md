@@ -2,9 +2,9 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_icons=true" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_icons=true" width="400" height="200" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical" width="400" height="200" />
 
 </div>
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e desenvolvimento e busco aprender cada vez mais na área. 💻✨
