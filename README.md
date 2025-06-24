@@ -7,13 +7,16 @@
 - Atuo de forma ativa no entendimento do negócio, dos processos e na geração de melhorias, entregando valor por meio da tecnologia.
 - Me adiciona no [LinkedIn](https://www.linkedin.com/in/maurizio-dellano)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_icons=true" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical" width="400"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_all_commits=true&count_private=true&show_icons=true" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical&layout=compact" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
