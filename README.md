@@ -9,7 +9,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_icons=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dellano23&theme=radical&include_icons=true" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellano23&theme=radical" width="400"/>
+    </td>
   </tr>
 </table>
