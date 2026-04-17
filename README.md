@@ -9,7 +9,7 @@
 
 📚 **Sobre Mim**
 
-- Sou formado em Análise e Desenvolvimento de sistemas pela FIAP (2025) e possuo formação técnica em Informática pelo Instituto Federal do Rio Grande do Sul (IFRS).
+- Sou formado em Análise e Desenvolvimento de sistemas pela FIAP (2025) e possuo formação técnica em Informática pelo Instituto Federal do Rio Grande do Sul (IFRS - 2023).
 - Com projetos pessoais e da faculdade, utilizei diferente tecnologias, dentre elas Java, com Web Services em Spring Boot, ASP.NET CORE em C#, BackEnd com NodeJs, integração de banco com Migrations, além de front-end com Bootstrap,  desenvolvimento Android com Compose e Kotlin, mas como desenvolvedor de software, gosto e devo aprender qualquer tecnologia.
 - Atuo de forma ativa no entendimento do negócio, dos processos e na geração de melhorias, entregando valor por meio da tecnologia. 
 - Amo aprender e me aprofundar cada vez mais em qualquer tecnologia que esteja utilizando ou aprendendo.
