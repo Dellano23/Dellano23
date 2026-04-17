@@ -9,11 +9,12 @@
 
 📚 **Sobre Mim**
 
-- Possuo formação técnica em Informática pelo Instituto Federal do Rio Grande do Sul e atualmente curso Análise e Desenvolvimento de Sistemas na FIAP.
-- Minha stack principal é o Java, com Web Services em Spring Boot, além de tecnologias como ASP.NET CORE em C# e front com Bootstrap, JS, desenvolvimento Android com Compose e Kotlin, mas como desenvolvedor de software, aprendo qualquer tecnologia.
-- Atuo de forma ativa no entendimento do negócio, dos processos e na geração de melhorias, entregando valor por meio da tecnologia.
-- Amo aprender e me aprofundar cada vez mais no desenvolvimento, me mantendo em ambientes que possam agregar nessa busca constante por aprendizado
-- Me adiciona no [LinkedIn](https://www.linkedin.com/in/maurizio-dellano)
+- Sou formado em Análise e Desenvolvimento de sistemas pela FIAP (2025) e possuo formação técnica em Informática pelo Instituto Federal do Rio Grande do Sul (IFRS).
+- Com projetos pessoais e da faculdade, utilizei diferente tecnologias, dentre elas Java, com Web Services em Spring Boot, ASP.NET CORE em C#, BackEnd com NodeJs, integração de banco com Migrations, além de front-end com Bootstrap,  desenvolvimento Android com Compose e Kotlin, mas como desenvolvedor de software, gosto e devo aprender qualquer tecnologia.
+- Atuo de forma ativa no entendimento do negócio, dos processos e na geração de melhorias, entregando valor por meio da tecnologia. 
+- Amo aprender e me aprofundar cada vez mais em qualquer tecnologia que esteja utilizando ou aprendendo.
+- Gosto de estar em ambientes que possam agregar nessa busca constante por aprendizado, acredito que por isso escolhi essa área.
+- Me adiciona no [LinkedIn](https://www.linkedin.com/in/maurizio-dellano) =)
 
 <div align="center">
   <table>
